@@ -2,4 +2,4 @@ boto3
 botocore
 pika
 aws_secretsmanager_caching
-psycopg2-binar
+psycopg2-binary
